@@ -3,9 +3,8 @@ Student Management System Database
 This project contains the schema for a Student Management System, designed to manage students, courses, instructors, and departments.
 
 Project Structure
-ER Diagram: Visual representation of entities and relationships (to be added).
+ER Diagram: Visual representation of entities and relationships.
 Schema Script: SQL script to create the database and tables.
-Test Data: Sample data to test the database schema.
 
 Tools Used
 - MySQL Workbench
